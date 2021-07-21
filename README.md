@@ -1,6 +1,6 @@
-Hi there, stranger :wave:
+Hi there :wave:
 
-These days, I've been working as a Software Developer at [Precision Nutrition](https://www.precisionnutrition.com/), writing mostly Ruby, JavaScript and TypeScript.
+These days, I've been working as a Software Developer at [Mighty Networks](https://www.mightynetworks.com/), writing mostly Ruby and JavaScript.
 
 Here are some other stuff I've also been doing recently:
 - 🧉 [MateMateGo](https://matematego.com/): I've built this website to help people finding Yerba Mate online.
